@@ -1,8 +1,8 @@
 <img src="https://graph.org/file/73f53a1a57448a8c35c94.jpg" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/Anup8273/Mistyukki?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# misty Music Bot <img src="https://img.shields.io/github/v/release/Anup8273/Mistyukki?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Yukki Music Bot](https://github.com/Anup8273/Mistyukki) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[misty Music Bot](https://github.com/Anup8273/Mistyukki) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
